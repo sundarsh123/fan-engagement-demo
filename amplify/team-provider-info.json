@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-fanengagementrealtim-dev-210056-authRole",
+      "UnauthRoleArn": "arn:aws:iam::317676393505:role/amplify-fanengagementrealtim-dev-210056-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::317676393505:role/amplify-fanengagementrealtim-dev-210056-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-fanengagementrealtim-dev-210056-deployment",
+      "UnauthRoleName": "amplify-fanengagementrealtim-dev-210056-unauthRole",
+      "StackName": "amplify-fanengagementrealtim-dev-210056",
+      "StackId": "arn:aws:cloudformation:us-west-2:317676393505:stack/amplify-fanengagementrealtim-dev-210056/14fdc710-f0dc-11ec-8d5d-06e16a88562f",
+      "AmplifyAppId": "dyuzpgdxgnzf9"
+    },
+    "categories": {
+      "auth": {
+        "fanengagementrealtim204cecf3": {}
+      }
+    }
+  }
+}

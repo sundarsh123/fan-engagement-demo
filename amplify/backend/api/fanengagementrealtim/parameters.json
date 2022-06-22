@@ -1,0 +1,11 @@
+{
+  "AppSyncApiName": "fanengagementrealtim",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authfanengagementrealtim204cecf3",
+      "Outputs.UserPoolId"
+    ]
+  }
+}
